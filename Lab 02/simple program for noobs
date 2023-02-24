@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+int main()
+{
+	int a, b;
+	float c;
+	cout<<"Enter an integer number: ";
+	cin>>a;
+	cout<<"\nEnter 2nd integer number: ";
+	cin>>b;
+	cout<<"\nEnter a decimal number: ";
+	cin>>c;
+	cout<<"\nYour Numbers Are...\n\n";
+	cout<<a<<' '<<b<<' '<<c;
+
+
+return 0;
+}
+
